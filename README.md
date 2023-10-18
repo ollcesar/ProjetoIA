@@ -1,2 +1,2 @@
 # projeto-inteligencia-artificial
-Repositório do projeto 
+Repositório do projeto de ensino 
